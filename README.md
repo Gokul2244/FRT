@@ -1,6 +1,6 @@
 # FRT
 
-this is my final frt project. #azure MY Website Link
+this is my final frt project. #azure MY Website Link -- https://purple-meadow-090cc6e10.2.azurestaticapps.net
 
 ![image](https://user-images.githubusercontent.com/110734826/193394728-ec0f4577-fc50-4f45-8335-c97903fd98a0.png)
 ![image](https://user-images.githubusercontent.com/110734826/193394733-7577cce9-5c5c-4251-a2fe-5ce3ffbbd5fc.png)
